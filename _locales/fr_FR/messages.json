@@ -106,7 +106,7 @@
     "description": "The button text for the reset options button"
   },
   "optionsResetConfirmation": {
-    "message": "Toutes les options seront réinitialisées aux valeurs par défaut sans possibilité d’être annulé, veuillez confirmer !",
+    "message": "Toutes les options seront réinitialisées à leur valeur par défaut sans possibilité d’être annulé, veuillez confirmer !",
     "description": "The confirmation message for resetting the options"
   },
   "optionsClearButtonPositionLabel": {
@@ -186,7 +186,7 @@
     "description": "Label for the dowmload progress's foreground"
   },
   "customizeThemeLabelText": {
-    "message": "Text",
+    "message": "Texte",
     "description": "Label for the download bar's text"
   },
   "customizeThemeLabelComplete": {
@@ -218,7 +218,7 @@
     "message": "Types de fichiers à masquer"
   },
   "optionsAutoHideOptional": {
-    "message": "Optionnel. Si rien n’est sélectionné, tous les types de fichiers seront automatiquement masqués."
+    "message": "Optionnel. Si rien n’est sélectionné, tous les fichiers seront masqués quelque soit leur type."
   },
   "optionsAutoHideSecondsInputBeforeText": {
     "message": "Masquer après",
@@ -265,7 +265,7 @@
     "description": "Play completion sound checkbox label"
   },
   "optionsPlaySoundDownloadDurationBeforeText": {
-    "message": "Émettre un son lorsque le téléchargement prend plus de temps que",
+    "message": "Émettre un son lorsque le téléchargement prend plus de temps que :",
     "description": "Text before the play sound download duration input"
   },
   "optionsPlaySoundDownloadDurationAfterText": {
@@ -273,7 +273,7 @@
     "description": "Text after the play sound download duration input"
   },
   "optionsCustomSoundNote": {
-    "message": "Optionnel : vous pouvez choisir votre fichier sonore (1Mo MAX)",
+    "message": "Optionnel : vous pouvez choisir votre propre fichier sonore (1Mo MAX)",
     "description": "Message about choosing a custom sound"
   },
   "optionsCustomSoundPlaceholder": {
@@ -305,7 +305,7 @@
     "description": "Title of the clearing section"
   },
   "optionsClearFailedLabel": {
-    "message": "Le bouton Effacer efface aussi les téléchargement en échec",
+    "message": "Le bouton Effacer efface également les téléchargement en échec",
     "description": "Label for the checkbox to enable clearing failed downloads with the clear button"
   },
   "optionsClearAfterOpeningLabel": {
