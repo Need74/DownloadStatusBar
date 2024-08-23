@@ -261,11 +261,11 @@
     "description": "Title of the completion sound section"
   },
   "optionsPlaySound": {
-    "message": "Joue un son quand un téléchargement est terminé",
+    "message": "Joue un son lorsque un téléchargement est terminé",
     "description": "Play completion sound checkbox label"
   },
   "optionsPlaySoundDownloadDurationBeforeText": {
-    "message": "Émettre un son lorsque le téléchargement prend plus de temps que :",
+    "message": "Joue un son lorsque le téléchargement dure plus de :",
     "description": "Text before the play sound download duration input"
   },
   "optionsPlaySoundDownloadDurationAfterText": {
